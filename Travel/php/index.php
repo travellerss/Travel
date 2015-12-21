@@ -37,7 +37,7 @@
 		<header id="header" class="header">
 			<div class="container">
 				<div class="logo float-left">
-					<a href="index.html" title=""><img src="../images/logo-header.png"
+					<a href="../php/index.php" title=""><img src="../images/logo-header.png"
 						alt=""></a>
 				</div>
 				<div class="bars" id="bars"></div>
@@ -48,15 +48,7 @@
 							<div class="tb-cell">
 								<ul class="menu-list text-uppercase">
 									<li class="current-menu-parent"><a href="index.html" title="">Home</a>
-									<ul class="sub-menu">
-											<li class="current-menu-item"><a href="index.html" title="">Home
-													menu 1</a></li>
-											<li><a href="index2.html" title="">Home menu 2</a></li>
-											<li><a href="index3.html" title="">Home menu 3</a></li>
-											<li><a href="index4.html" title="">Home menu 4</a></li>
-											<li><a href="index5.html" title="">Home background slide</a></li>
-											<li><a href="index6.html" title="">Home background video</a></li>
-										</ul></li>
+									</li>
 									<li><a href="#">Pages</a>
 									<ul class="sub-menu">
 											<li><a href="#" title="">Blog</a>
@@ -1052,8 +1044,8 @@
 							<div class="follow-us">
 								<h4>Follow us</h4>
 								<div class="follow-group">
-									<a href="" title=""><i class="fa fa-facebook"></i></a> <a
-										href="" title=""><i class="fa fa-twitter"></i></a> <a href=""
+									<a href="" title=""><i class="fa fa-facebook"></i></a> 
+									<a href="" title=""><i class="fa fa-twitter"></i></a> <a href=""
 										title=""><i class="fa fa-pinterest"></i></a> <a href=""
 										title=""><i class="fa fa-linkedin"></i></a> <a href=""
 										title=""><i class="fa fa-instagram"></i></a> <a href=""
@@ -1128,7 +1120,7 @@
 								</ul>
 							</div>
 						</div>
-						<p class="copyright">© 2009 – 2014 Bookyourtrip™ All rights
+						<p class="copyright">(c) 2009 - 2014 Bookyourtrip™ All rights
 							reserved.</p>
 					</div>
 				</div>
