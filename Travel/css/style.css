@@ -72,7 +72,7 @@ body {
 	-webkit-animation: spin .9s linear infinite;
 	-moz-animation: spin .9s linear infinite;
 	-o-animation: spin .9s linear infinite;
-	animation: spin .9s linear infinite
+	animation: spin .9s linear infinite;
 }
 
 .panel-group .panel, input {
@@ -80,8 +80,7 @@ body {
 	-moz-border-radius: 0
 }
 
-@
-keyframes spin { 0%{
+@keyframes spin { 0%{
 	transform: rotate(0)
 }
 
@@ -94,8 +93,7 @@ transform
 :rotate(359deg)
 }
 }
-@
--webkit-keyframes spin { 0%{
+@-webkit-keyframes spin { 0%{
 	-webkit-transform: rotate(0)
 }
 
@@ -108,8 +106,7 @@ transform
 :rotate(359deg)
 }
 }
-@
--moz-keyframes spin { 0%{
+@-moz-keyframes spin { 0%{
 	-moz-transform: rotate(0)
 }
 
@@ -122,8 +119,7 @@ transform
 :rotate(359deg)
 }
 }
-@
--o-keyframes spin { 0%{
+@-o-keyframes spin { 0%{
 	-o-transform: rotate(0)
 }
 

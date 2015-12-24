@@ -1,7 +1,7 @@
 <header id="header" class="header">
 			<div class="container">
 				<div class="logo float-left">
-					<a href="../php/index.php" title=""><img src="../images/logo-header.png"
+					<a href="index.php" title=""><img src="../images/logo-header.png"
 						alt=""></a>
 				</div>
 				<div class="bars" id="bars"></div>
@@ -23,14 +23,14 @@
 											<li><a href="about.html" title="">About</a></li>
 											<li><a href="../php/comingsoon.php" title="">User</a>
 											<ul class="sub-menu">
-													<li><a href="user-booking.html" title="">User Booking</a></li>
-													<li><a href="user-profile.html" title="">User Profile</a></li>
-													<li><a href="user-setting.html" title="">User Setting</a></li>
-													<li><a href="user-review.html" title="">User Review</a></li>
-													<li><a href="user-signup.html" title="">User Signup</a></li>
+													<li><a href="#" title="">User Booking</a></li>
+													<li><a href="#" title="">User Profile</a></li>
+													<li><a href="#" title="">User Setting</a></li>
+													<li><a href="#" title="">User Review</a></li>
+													<li><a href="#" title="">User Signup</a></li>
 												</ul></li>
-											<li><a href="contact.html" title="">Contact</a></li>
-											<li><a href="payment.html" title="">Payment</a></li>
+											<li><a href="../php/comingsoon.php" title="">Contact</a></li>
+											<li><a href="../php/comingsoon.php" title="">Payment</a></li>
 											<li><a href="element.html" title="">Element</a></li>
 											<li><a href="404.html" title="">404</a></li>
 											<li><a href="comingsoon.html" title="">Comingsoon</a></li>

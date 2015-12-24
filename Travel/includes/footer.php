@@ -36,7 +36,7 @@
 								<ul>
 									<li class="current"><a href="#" title="">English</a></li>
 									<li><a href="#" title="">Bahasa Melayu</a></li>
-									<li><a href="#" title="">Català</a></li>
+									<li><a href="#" title="">Catala</a></li>
 									<li><a href="#" title="">Dansk</a></li>
 									<li><a href="#" title="">Deutsch</a></li>
 									<li><a href="#" title="">Francais</a></li>
@@ -50,8 +50,8 @@
 							</div>
 							<div class="dropdown-body">
 								<ul>
-									<li class="current"><a href="#" title="">US</a></li>
-									<li><a href="#" title="">ARS</a></li>
+									<li class="current"><a href="#" title="">RUPEE</a></li>
+									<li><a href="#" title="">US</a></li>
 									<li><a href="#" title="">ADU</a></li>
 									<li><a href="#" title="">CAD</a></li>
 									<li><a href="#" title="">CHF</a></li>
@@ -60,7 +60,7 @@
 								</ul>
 							</div>
 						</div>
-						<p class="copyright">© 2015 - 2016 Travel Island™ All rights
+						<p class="copyright">&copy; 2015 - 2016 Travel Island&trade; All rights
 							reserved.</p>
 					</div>
 				</div>

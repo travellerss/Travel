@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="../css/library/owl.carousel.css">
 <link rel="stylesheet" href="../css/library/jquery.mb.YTPlayer.min.css">
 <link rel="stylesheet" href="../css/style.css">
-
+<link rel="stylesheet" href="../css/library/rupeefont.css">
 </head>
 <body >
 	<div id="preloader">
@@ -38,7 +38,7 @@
 				<div class="container">
 					<div class="travel-title float-left">
 						<h2>
-							Hot Sale Today: <span>Paris, Amsterdam, Saint Petersburg & more</span>
+							Hot Sale Today: <span>Kolkata, Kashmir, Darjeeling & more</span>
 						</h2>
 					</div>
 					<a href="#" title=""
@@ -60,16 +60,16 @@
 								<div class="home-sales-text">
 									<div class="home-sales-name-places">
 										<div class="home-sales-name">
-											<a href="#" title="">Copley Square Hotel</a>
+											<a href="#" title="">Taj Coromandel</a>
 										</div>
 										<div class="home-sales-places">
-											<a href="" title="">Boston</a>, <a href="" title="">Massachusetts</a>
+											<a href="" title="">Chennai</a>, <a href="" title="">Tamil Nadu</a>
 										</div>
 									</div>
 									<hr class="hr">
 									<div class="price-box">
-										<span class="price old-price">From <del>$269</del></span> <span
-											class="price special-price">$175<small>/night</small></span>
+										<span class="price old-price">From <del><span class="WebRupee">&#x20B9;</span>9999</del></span> <span
+											class="price special-price"><span class="WebRupee">&#x20B9;</span>9499<small>/night</small></span>
 									</div>
 								</div>
 							</div>
@@ -85,16 +85,16 @@
 								<div class="home-sales-text">
 									<div class="home-sales-name-places">
 										<div class="home-sales-name">
-											<a href="#" title="">Grand Hotel Bagni Nuovi</a>
+											<a href="#" title="">Cidade de Goa Beach Resort</a>
 										</div>
 										<div class="home-sales-places">
-											<a href="" title="">Boston</a>, <a href="" title="">Italy</a>
+											<a href="" title="">Goa</a>, <a href="" title="">India</a>
 										</div>
 									</div>
 									<hr class="hr">
 									<div class="price-box">
-										<span class="price old-price">From <del>$632</del></span> <span
-											class="price special-price">$345<small>/night</small></span>
+										<span class="price old-price">From <del><span class="WebRupee">&#x20B9;</span>6320</del></span> <span
+											class="price special-price"><span class="WebRupee">&#x20B9;</span>4450<small>/night</small></span>
 									</div>
 								</div>
 							</div>
@@ -110,17 +110,16 @@
 								<div class="home-sales-text">
 									<div class="home-sales-name-places">
 										<div class="home-sales-name">
-											<a href="#" title="">The Standard, East Village</a>
+											<a href="#" title="">Hotel Taj Bengal</a>
 										</div>
 										<div class="home-sales-places">
-											<a href="" title="">New York</a>, <a href="" title="">New
-												York</a>
+											<a href="" title="">Kolkata</a>, <a href="" title="">West Bengal</a>
 										</div>
 									</div>
 									<hr class="hr">
 									<div class="price-box">
-										<span class="price old-price">From <del>$582</del></span> <span
-											class="price special-price">$258<small>/night</small></span>
+										<span class="price old-price">From <del><span class="WebRupee">&#x20B9;</span>5820</del></span> <span
+											class="price special-price"><span class="WebRupee">&#x20B9;</span>2580<small>/night</small></span>
 									</div>
 								</div>
 							</div>
@@ -139,14 +138,13 @@
 											<a href="#" title="">Ganges River Cruise</a>
 										</div>
 										<div class="home-sales-places">
-											<a href="" title="">London</a>, <a href="" title="">United
-												Kingdom</a>
+											<a href="" title="">Kolkata</a>, <a href="" title="">West Bengal</a>
 										</div>
 									</div>
 									<hr class="hr">
 									<div class="price-box">
-										<span class="price old-price">From <del>$457</del></span> <span
-											class="price special-price">$258<small>/night</small></span>
+										<span class="price old-price">From <del><span class="WebRupee">&#x20B9;</span>4570</del></span> <span
+											class="price special-price"><span class="WebRupee">&#x20B9;</span>2580<small>/night</small></span>
 									</div>
 								</div>
 							</div>
@@ -162,16 +160,16 @@
 								<div class="home-sales-text">
 									<div class="home-sales-name-places">
 										<div class="home-sales-name">
-											<a href="#" title="">Town Hall Hotel</a>
+											<a href="#" title="">Taj Exotica</a>
 										</div>
 										<div class="home-sales-places">
-											<a href="" title="">Boston</a>, <a href="" title="">Massachusetts</a>
+											<a href="" title="">Goa</a>, <a href="" title="">India</a>
 										</div>
 									</div>
 									<hr class="hr">
 									<div class="price-box">
-										<span class="price old-price">From <del>$269</del></span> <span
-											class="price special-price">$175<small>/night</small></span>
+										<span class="price old-price">From <del><span class="WebRupee">&#x20B9;</span>7690</del></span> <span
+											class="price special-price"><span class="WebRupee">&#x20B9;</span>6750<small>/night</small></span>
 									</div>
 								</div>
 							</div>
@@ -187,16 +185,16 @@
 								<div class="home-sales-text">
 									<div class="home-sales-name-places">
 										<div class="home-sales-name">
-											<a href="#" title="">A Hidden NYC Mystery Hotel</a>
+											<a href="#" title="">Agatti Island Resort</a>
 										</div>
 										<div class="home-sales-places">
-											<a href="" title="">Boston</a>, <a href="" title="">Italy</a>
+											<a href="" title="">Lakshwadeep</a>, <a href="" title="">India</a>
 										</div>
 									</div>
 									<hr class="hr">
 									<div class="price-box">
-										<span class="price old-price">From <del>$354</del></span> <span
-											class="price special-price">$255<small>/night</small></span>
+										<span class="price old-price">From <del><span class="WebRupee">&#x20B9;</span>3540</del></span> <span
+											class="price special-price"><span class="WebRupee">&#x20B9;</span>2550<small>/night</small></span>
 									</div>
 								</div>
 							</div>
@@ -236,15 +234,15 @@
 									<li class="active"><a data-toggle="tab" href="#destinations-1"><i
 											class="fa fa-map-marker"></i> Recommendation for you</a></li>
 									<li><a data-toggle="tab" href="#destinations-2"><i
-											class="fa fa-map-marker"></i> Australia &amp; Oceania</a></li>
+											class="fa fa-map-marker"></i> Leh &amp; Laddak</a></li>
 									<li><a data-toggle="tab" href="#destinations-3"><i
-											class="fa fa-map-marker"></i> Asia</a></li>
+											class="fa fa-map-marker"></i> Kadhmir</a></li>
 									<li><a data-toggle="tab" href="#destinations-4"><i
-											class="fa fa-map-marker"></i> Europe</a></li>
+											class="fa fa-map-marker"></i> Madurai</a></li>
 									<li><a data-toggle="tab" href="#destinations-5"><i
-											class="fa fa-map-marker"></i> USA &amp; Canada</a></li>
+											class="fa fa-map-marker"></i> Kullu &amp; Manalli</a></li>
 									<li><a data-toggle="tab" href="#destinations-6"><i
-											class="fa fa-map-marker"></i> The rest of the world</a></li>
+											class="fa fa-map-marker"></i> The rest of the India</a></li>
 								</ul>
 							</div>
 						</div>
@@ -256,9 +254,9 @@
 										<div class="destinations-item">
 											<div class="destinations-text">
 												<div class="destinations-name">
-													<a href="" title="">London - UK</a>
+													<a href="" title="">Amritsar - Punjab</a>
 												</div>
-												<span class="properties-nb"><ins>1289</ins> properties</span>
+												<span class="properties-nb"><ins>59</ins> properties</span>
 											</div>
 											<figure class="destinations-img">
 												<a href="" title=""><img src="../images/destinations/img-1.jpg"
@@ -270,9 +268,9 @@
 										<div class="destinations-item">
 											<div class="destinations-text">
 												<div class="destinations-name">
-													<a href="" title="">Paris - France</a>
+													<a href="" title="">Shimla</a>
 												</div>
-												<span class="properties-nb">239 properties</span>
+												<span class="properties-nb">39 properties</span>
 											</div>
 											<figure class="destinations-img">
 												<a href="" title=""><img src="../images/destinations/img-2.jpg"
@@ -284,9 +282,9 @@
 										<div class="destinations-item">
 											<div class="destinations-text">
 												<div class="destinations-name">
-													<a href="" title="">Rome - Italy</a>
+													<a href="" title="">New Delhi</a>
 												</div>
-												<span class="properties-nb">478 properties</span>
+												<span class="properties-nb">78 properties</span>
 											</div>
 											<figure class="destinations-img">
 												<a href="" title=""><img src="../images/destinations/img-3.jpg"
@@ -298,9 +296,9 @@
 										<div class="destinations-item">
 											<div class="destinations-text">
 												<div class="destinations-name">
-													<a href="" title="">Barcelona - Spain</a>
+													<a href="" title="">Goa</a>
 												</div>
-												<span class="properties-nb">452 properties</span>
+												<span class="properties-nb">152 properties</span>
 											</div>
 											<figure class="destinations-img">
 												<a href="" title=""><img src="../images/destinations/img-4.jpg"
@@ -312,9 +310,9 @@
 										<div class="destinations-item">
 											<div class="destinations-text">
 												<div class="destinations-name">
-													<a href="" title="">Madrid - Spain</a>
+													<a href="" title="">Mumbai</a>
 												</div>
-												<span class="properties-nb">794 properties</span>
+												<span class="properties-nb">114 properties</span>
 											</div>
 											<figure class="destinations-img">
 												<a href="" title=""><img src="../images/destinations/img-5.jpg"
@@ -326,9 +324,9 @@
 										<div class="destinations-item">
 											<div class="destinations-text">
 												<div class="destinations-name">
-													<a href="" title="">Vienna - Austria</a>
+													<a href="" title="">Chennai</a>
 												</div>
-												<span class="properties-nb">1289 properties</span>
+												<span class="properties-nb">89 properties</span>
 											</div>
 											<figure class="destinations-img">
 												<a href="" title=""><img src="../images/destinations/img-6.jpg"
@@ -448,30 +446,35 @@
 								<div id="owl-magazine-ds">
 									<div class="magazine-item">
 										<div class="magazine-header">
-											<h2>Five festivals to look forward to this year</h2>
+											<h2>Festivals to look forward in the coming year</h2>
 											<ul>
 												<li>by <a href="" title="">Admin</a></li>
-												<li>03.5.2014</li>
+												<li>23.12.2015</li>
 											</ul>
 											<hr class="hr">
 										</div>
 										<div class="magazine-body">
-											<p>Suspendisse ullamcorper lacus et commodo laoreet. Sed
-												sodales aliquet felis, quis volutpat massa imperdiet in.
-												Praesent rutrum malesuada risus, ullamcorper pretium tortor.
-												Mauris lacinia nisl id massa consectetur, eu tempus mauris
-												lacinia. Fusce commodo porttitor sapien quis condimentum.</p>
+											<p>2016 is here! A new year, which brings in bigger dreams and hopes. 
+											And of course numerous occasions for celebrations. 
+											India with its rich and varied culture across the 
+											country has several festivals to look forward to.
+											 Each month in India promises loads of festivities. 
+											 As it's January, let's take a look at the festivals 
+											 that will be celebrated this month.</p>
 											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae. Suspendisse eu libero odio.
+												1. <b>Lohri</b> is a popular festival, especially in Punjab. 
+												It is believed that Lohri is celebrated on winter solstice, 
+												which is the shortest day and the longest night of the year. 
+												Lohri is also associated with the harvest of rabi crops. 
+												Key feature of Lohri is lighting a bonfire.  
+												Kite flying also forms a part of the festival in Punjab. Apart from the Punjab region 
+												(Haryana, Delhi, Himachal Pradesh, Lohri is celebrated in Chandigarh and Jammu.
 											</p>
 											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae.
+												2. <b>Makar Sankranti</b> is a Hindu festival celebrated in almost all parts of India and Nepal, 
+												in different cultural forms. It is a harvest festival. 
+												It is known by different names and includes different customs in each region of India. 
+												
 											</p>
 										</div>
 										<div class="magazine-footer clearfix">
@@ -487,7 +490,7 @@
 									</div>
 									<div class="magazine-item">
 										<div class="magazine-header">
-											<h2>Five festivals to look forward to this year</h2>
+											<h2>Diwali celebration in Golden Temple</h2>
 											<ul>
 												<li>by <a href="" title="">Admin</a></li>
 												<li>03.5.2014</li>
@@ -495,22 +498,27 @@
 											<hr class="hr">
 										</div>
 										<div class="magazine-body">
-											<p>Suspendisse ullamcorper lacus et commodo laoreet. Sed
-												sodales aliquet felis, quis volutpat massa imperdiet in.
-												Praesent rutrum malesuada risus, ullamcorper pretium tortor.
-												Mauris lacinia nisl id massa consectetur, eu tempus mauris
-												lacinia. Fusce commodo porttitor sapien quis condimentum.</p>
+											<p>Devotees pray inside the Golden Temple, 
+											Sikhs holy shrine, decorated with lights on the eve of Bandi 
+											Chhor Divas, that coincides with the Diwali festival, in Amritsar on Wednesday. 
+The day marks the release of Guru Hargobind from from imprisonment 
+in the famous fort of Gwalior by Emperor Jahangir in October, 1619. 
+
+
+</p>
 											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae. Suspendisse eu libero odio.
+												The reason for the young Guru's imprisonment was 
+												nothing more than religious bigotry.
+												 He arrived in Amritsar on the day of Diwali and 
+												 Harmandir Sahib (also known as the Golden Temple) 
+												 was lit with hundreds of lamps to celebrate his return; 
+												 the day came to be known as the "Bandi Shor(Shodh) Divas" (the day of freedom). 
+
+
 											</p>
 											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae.
+												Henceforth, the Sikhs celebrate this day every year.
+
 											</p>
 										</div>
 										<div class="magazine-footer clearfix">
@@ -526,31 +534,24 @@
 									</div>
 									<div class="magazine-item">
 										<div class="magazine-header">
-											<h2>Five festivals to look forward to this year</h2>
+											<h2>Holi in Khatu Shyam Ji</h2>
 											<ul>
 												<li>by <a href="" title="">Admin</a></li>
-												<li>03.5.2014</li>
+												<li>03.5.2015</li>
 											</ul>
 											<hr class="hr">
 										</div>
 										<div class="magazine-body">
-											<p>Suspendisse ullamcorper lacus et commodo laoreet. Sed
-												sodales aliquet felis, quis volutpat massa imperdiet in.
-												Praesent rutrum malesuada risus, ullamcorper pretium tortor.
-												Mauris lacinia nisl id massa consectetur, eu tempus mauris
-												lacinia. Fusce commodo porttitor sapien quis condimentum.</p>
+											<p>Color holi one of the greatest festival is celebrated with great enthusiasm in Khatu shyam ji temple. 
+											It is festival of colors and love . 
+											It is the day for shyam bhakts to play colors with shri shyam baba and other bhakts.</p>
 											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae. Suspendisse eu libero odio.
+												people who comes in falgun mela before 5 days ago ,stay to rejoice on Dhulandi . 
+												More than 1 lakh shyam bhakts give attendance in the shrine . They gather in the ground of temple , 
+												sings shyam bhajan and holi dhamal , 
+												They dance and play gulal ( Dry soft color ) to other shyam devotee.
 											</p>
-											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae.
-											</p>
+											
 										</div>
 										<div class="magazine-footer clearfix">
 											<div class="post-share magazine-share float-left">
@@ -565,31 +566,30 @@
 									</div>
 									<div class="magazine-item">
 										<div class="magazine-header">
-											<h2>Five festivals to look forward to this year</h2>
+											<h2>Durga Puja in Kolkata</h2>
 											<ul>
 												<li>by <a href="" title="">Admin</a></li>
-												<li>03.5.2014</li>
+												<li>03.10.2015</li>
 											</ul>
 											<hr class="hr">
 										</div>
 										<div class="magazine-body">
-											<p>Suspendisse ullamcorper lacus et commodo laoreet. Sed
-												sodales aliquet felis, quis volutpat massa imperdiet in.
-												Praesent rutrum malesuada risus, ullamcorper pretium tortor.
-												Mauris lacinia nisl id massa consectetur, eu tempus mauris
-												lacinia. Fusce commodo porttitor sapien quis condimentum.</p>
+											<p>Durga Puja - the ceremonial worship of the mother goddess, 
+											is one of the most important festivals of India. 
+											Apart from being a religious festival for the Hindus,
+											 it is also an occasion for reunion and rejuvenation, 
+											 and a celebration of traditional culture and customs.
+											  While the rituals entails ten days of fast, feast and worship, the last four days - Saptami, Ashtami, Navami and Dashami - 
+											  are celebrated with much gaiety and grandeur in India and abroad, especially in Bengal,
+											 where the ten-armed goddess riding the lion is worshipped with great passion and devotion.</p>
 											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae. Suspendisse eu libero odio.
+												The first grand worship of Goddess Durga in 
+												recorded history is said to have been celebrated in the late 1500s.
+												 Folklores say the landlords or zamindar of Dinajpur and Malda initiated the first Durga Puja in Bengal.
+												  According to another source, Raja Kangshanarayan of Taherpur or Bhabananda Mazumdar 
+												of Nadiya organized the first Sharadiya or Autumn Durga Puja in Bengal in c 1606.
 											</p>
-											<p>
-												Curabitur sollicitudin magna sed sem blandit sodales.
-												Integer in eros sit amet tellus vulputate laoreet ut in
-												purus. Nullam quis lacus nisl.<br>Sed venenatis commodo leo,
-												ac pulvinar ipsum mattis vitae.
-											</p>
+											
 										</div>
 										<div class="magazine-footer clearfix">
 											<div class="post-share magazine-share float-left">
@@ -612,8 +612,8 @@
 										<img src="../images/magazine/img-1.jpg" alt="">
 									</figure>
 									<div class="thumnail-text">
-										<h4>Thailand by Train with Eastern and Oriental Express</h4>
-										<span>03.5.2014</span>
+										<h4>Festivals to look forward in the coming year</h4>
+										<span>23.12.2015</span>
 									</div>
 								</div>
 								<div class="thumnail-item clearfix">
@@ -621,7 +621,7 @@
 										<img src="../images/magazine/img-2.jpg" alt="">
 									</figure>
 									<div class="thumnail-text">
-										<h4>Thailand by Train with Eastern and Oriental Express</h4>
+										<h4>Diwali celebration in Golden Temple</h4>
 										<span>03.5.2014</span>
 									</div>
 								</div>
@@ -630,8 +630,8 @@
 										<img src="../images/magazine/img-3.jpg" alt="">
 									</figure>
 									<div class="thumnail-text">
-										<h4>Thailand by Train with Eastern and Oriental Express</h4>
-										<span>03.5.2014</span>
+										<h4>Holi in Khatu Shyam Ji</h4>
+										<span>03.5.2015</span>
 									</div>
 								</div>
 								<div class="thumnail-item clearfix">
@@ -639,8 +639,8 @@
 										<img src="../images/magazine/img-4.jpg" alt="">
 									</figure>
 									<div class="thumnail-text">
-										<h4>Thailand by Train with Eastern and Oriental Express</h4>
-										<span>03.5.2014</span>
+										<h4>Durga Puja in Kolkata</h4>
+										<span>03.10.2015</span>
 									</div>
 								</div>
 							</div>
@@ -679,7 +679,7 @@
 					<div class="col-md-6">
 						<div class="subscribe">
 							<h3>Subscribe to our newsletter</h3>
-							<p>Enter your email address and we’ll send you our regular
+							<p>Enter your email address and we'll send you our regular
 								promotional emails, packed with special offers, great deals, and
 								huge discounts</p>
 							<div class="subscribe-form">

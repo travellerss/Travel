@@ -37,7 +37,7 @@
 			<div class="bg-parallax bg-1"></div>
 			<div class="container">
 				<div class="logo-page text-center">
-					<a href="" title=""><img src="../images/logo-banner.png" alt="Logo" height="127px" width="322px"></a>
+					<a href="../php/index.php" title=""><img src="../images/logo-banner.png" alt="Logo" height="127px" width="322px"></a>
 				</div>
 				<div class="page-body text-center">
 					<div class="item-content" style="margin-top: -60px;">
