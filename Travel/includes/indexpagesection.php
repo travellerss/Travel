@@ -27,10 +27,11 @@
 						<div class="form-cn form-hotel tab-pane active in" id="form-hotel">
 							<h2>Where would you like to go?</h2>
 							<div class="form-search clearfix">
+							<form action="hotel-list.php" method="get">
 								<div class="form-field field-destination">
 									<label for="destination"><span>Destination:</span> Country,
 										City, Airport, Area, Landmark</label><input type="text"
-										id="destination" class="field-input">
+										name="destination" id="destination" class="field-input">
 								</div>
 								<div class="form-field field-date">
 									<input type="text" class="field-input calendar-input"
@@ -51,6 +52,7 @@
 								<div class="form-submit">
 									<button type="submit" class="awe-btn awe-btn-lager awe-search">Search</button>
 								</div>
+								</form>
 							</div>
 						</div>
 						<div class="form-cn form-car tab-pane" id="form-car">

@@ -12,14 +12,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <meta name="format-detection" content="telephone=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<link href="http://fonts.googleapis.com/css?family=Lato:300,400%7COpen+Sans:300,400,600" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="../css/library/font-awesome.min.css">
-<link rel="stylesheet" href="../css/library/bootstrap.min.css">
-<link rel="stylesheet" href="../css/library/jquery-ui.min.css">
-<link rel="stylesheet" href="../css/library/owl.carousel.css">
-<link rel="stylesheet" href="../css/library/jquery.mb.YTPlayer.min.css">
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/library/rupeefont.css">
+<?php include '../includes/css.php';?>
 </head>
 <body >
 	<div id="preloader">

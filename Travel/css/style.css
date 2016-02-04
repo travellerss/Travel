@@ -12131,3 +12131,34 @@ footer .copyright {
 		font-size: 13px
 	}
 }
+
+
+.half {
+    position:relative;
+}
+
+.half:after {
+    content:'';
+    position:absolute;
+    z-index:1;
+    background:white;
+    width: 50%;
+    height: 100%;
+    right: 0;
+    overflow:hidden
+}
+
+.lessthanhalf {
+    position:relative;
+}
+
+.lessthanhalf:after {
+    content:'';
+    position:absolute;
+    z-index:1;
+    background:white;
+    width: 75%;
+    height: 100%;
+    right: 0;
+    overflow:hidden
+}
